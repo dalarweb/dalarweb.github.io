@@ -111,6 +111,10 @@ transform: scaleX(0.5);
     background-position: center;
     position: relative;
 }
+.judul-ppt {
+    padding-top: 100px;
+    text-align: center;
+}
 
 .content h1 {
     text-align: center;
@@ -120,6 +124,11 @@ transform: scaleX(0.5);
 }
 .video{
     align-items:center; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    height: auto;
      
 }
 .game {
