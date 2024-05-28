@@ -132,7 +132,7 @@ transform: scaleX(0.5);
      
 }
 .game {
-    min-height: 800px;
+    min-height: 400px;
     background-image: url('../img/desain.jpg') ;
     align-items: center;
     background-repeat: no-repeat;
