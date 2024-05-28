@@ -183,7 +183,7 @@ transform: scaleX(0.5);
     }
 }
 
-media {display:block;
+.media {display:block;
       margin-left: auto;
       margin-right: auto;
     }
