@@ -168,7 +168,7 @@ transform: scaleX(0.5);
     }
 }
 /* mobile */
-@media (max-width :450px) {
+@media (max-width :320px) {
     html {
         font-size: 45%;
     }
